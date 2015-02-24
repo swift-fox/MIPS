@@ -3,7 +3,7 @@ MIPS
 
 A very simple MIPS core.
 
-- 28 integer instructions in the MIPS-I instruction set are implemented.
+- 52 instructions in the MIPS-I instruction set are implemented.
 - Modified Harvard architecture.
 - No pipelining. All instructions are single-cycle.
 
