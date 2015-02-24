@@ -36,3 +36,5 @@ There are four demos. Every of them implements an image processing algorithm or 
 - Color_Thresholding: Does thesholding on every channel of a RGB image, generating a visual effect similar to the pseudo color. This demo is made for another version of this CPU which has an SIMD Architecture.
 - Pixelate: The pixelate filter, a stylish filter.
 - Luminance: Adjust luminance of an image. Made for the SIMD version supporting saturation arithmetic instructions.
+
+There are several Python scripts in the *Demos* folder. They are for the conversion between images and memory dump files. 
